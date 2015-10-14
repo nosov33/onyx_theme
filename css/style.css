@@ -1,0 +1,21 @@
+/*
+colors of the Ilhans Website: 
+#3ebd9d - green light
+#35ae92 - green medium
+#14957c - green strong
+*/
+body{
+	color: #666666;
+}
+
+
+
+footer{
+	background-color: #35ae92;
+	color: #fff; 
+}
+footer .nosov{
+	text-align: right;
+	float: right;
+	wi
+}
