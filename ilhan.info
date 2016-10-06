@@ -1,21 +1,21 @@
-name = Ilhan 3D site
+name        = Onyx Theme Drupal
 description = Responsive Drupal 7
-core = 7.x
-version = 1.0
+core        = 7.x
+version     = 1.0
 
-stylesheets[all][] = css/bootstrap.css
-stylesheets[all][] = css/pixons.css
-stylesheets[all][] = css/style.css
+stylesheets[all][]        = css/bootstrap.css
+stylesheets[all][]        = css/pixons.css
+stylesheets[all][]        = css/style.css
 
-scripts[] = js/bootstrap.min.js
+scripts[]                 = js/bootstrap.min.js
 
-regions[slider] 			= Slider Region
-regions[content] 			= Content
-regions[why_1] 				= Why 1
-regions[addons] 			= Small text
-regions[testim] 			= Testimotial
-regions[news] 				= Front Page News Block
-regions[map] 				= Google Map
+regions[slider] 			    = Slider Region
+regions[content] 			    = Content
+regions[why_1] 				    = Why 1
+regions[addons] 			    = Small text
+regions[testim] 			    = Testimotial
+regions[news] 				    = Front Page News Block
+regions[map] 				      = Google Map
 regions[contact_details] 	= Contact details
-regions[contact] 			= Contact form
+regions[contact] 			    = Contact form
 regions[footer_rights] 		= Footer Rights
